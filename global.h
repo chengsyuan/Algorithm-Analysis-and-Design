@@ -12,3 +12,4 @@ using namespace std;
 
 void hanio();
 void cover_board();
+void tournament_arrangement();

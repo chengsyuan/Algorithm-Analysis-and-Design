@@ -1,6 +1,6 @@
 #include "global.h"
 
 int main() {
-    cover_board();
+    tournament_arrangement();
     return 0;
 }
